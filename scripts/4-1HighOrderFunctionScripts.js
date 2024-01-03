@@ -20,4 +20,5 @@ function multiplier(factor) {
     
 const multiplyByTwo = multiplier(2);
 console.log(multiplyByTwo(5)); // Output: 10
-    
+
+
